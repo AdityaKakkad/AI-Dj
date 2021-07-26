@@ -1,0 +1,75 @@
+#heading_
+{
+  font-size: 50px;
+  width: 100%;
+  margin: 0px;
+  background-color: chartreuse;
+  font-family: 'Permanent Marker', cursive;
+  width: 70%;
+  border-radius: 20px;
+}
+#instructions
+{
+  font-size: x-large;
+  color: black;
+  background-color: cornflowerblue;
+  font-family: 'Gaegu', cursive;
+  width: 70%;
+  border-radius: 5px;
+}
+body
+{
+  background-size: cover; 
+}
+  .div_speed
+  {
+    float: left;
+  }
+  .div_speed_img
+  {
+    width: 200px; 
+    border-radius: 100px;
+  }
+  #speed
+  {
+    font-size: 23px;
+    margin: 15px;
+  }
+  .div_volume
+  {
+    float: right; 
+  }
+  .div_volume_img
+  {
+    width: 200px; 
+    border-radius: 100px;
+  }
+  #volume
+  {
+    font-size: 23px;
+    margin: 15px;
+  }
+   #play
+  {
+    width: 130px;
+    font-size: 25px;
+    background-color: gold;
+    border-radius: 20px;
+  }
+  canvas {
+      border: indigo;
+      border-radius: 20px;
+      border-style: dashed;
+      margin-top: 200px;
+  }
+
+  #speed {
+      background-color: indianred;
+      border-radius: 5px;
+  }
+
+  #volume {
+    background-color: indianred;
+
+    border-radius: 5px;
+}
